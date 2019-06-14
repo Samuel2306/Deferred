@@ -1,2 +1,5 @@
-# Deferred-Management
-Asynchronous queue management, multiply queue management, Promise
+# Deferred
+- Asynchronous queue management
+- multiply queue management
+- Promise
+- ES6
